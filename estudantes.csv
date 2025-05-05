@@ -1,0 +1,11 @@
+Nome,Idade,Gênero,Nota_Matemática,Nota_Português,Estuda_em_casa,Participa_de_monitoria
+Ana,16,F,88,92,Sim,Não
+Bruno,17,M,75,70,Não,Sim
+Carla,16,F,95,89,Sim,Sim
+Diego,17,M,60,65,Não,Não
+Eduarda,16,F,82,85,Sim,Sim
+Fábio,18,M,70,72,Não,Não
+Giovana,17,F,90,93,Sim,Sim
+Henrique,16,M,65,68,Não,Sim
+Isabela,17,F,85,88,Sim,Não
+João,18,M,78,75,Sim,Sim
